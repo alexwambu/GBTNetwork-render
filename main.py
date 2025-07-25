@@ -23,7 +23,7 @@ blockchain_data = {
     "symbol": "GBT",
     "name": "GBTNetwork",
     "logo": "https://raw.githubusercontent.com/openai-user-assist/GBTNetworkAssets/main/logo.png",
-    "balance": {"0xF7F965b65E735Fb1C22266BdcE7A23CF5026AF1E": "36000000000000000000000000000000"}
+    "balance": {"0xF7F965b65E735Fb1C22266BdcE7A23CF5026AF1E": "999000000000000000000000000000000"}
 }
 
 @app.get("/")
